@@ -1,0 +1,5 @@
+Art. 9 bis
+Contributi per la realizzazione di interventi edilizi a favore di anziani
+1. Per la realizzazione degli interventi di cui all'art. 9, la Regione approva i programmi per la concessione dei contributi di cui alla lettera b) del comma 5 dello stesso art. 9 ai Comuni e agli operatori che presentano i requisiti individuati dalla legge i quali recuperano o costruiscono alloggi da destinare in locazione permanente a favore di anziani o nuclei familiari comprendenti anziani.
+2. Tali contributi sono concessi in conto capitale fino a copertura del costo complessivo dell'intervento per i Comuni e gli IACP e fino al cinquanta per cento per le cooperative a proprietà indivisa.
+3. Detti contributi sono erogabili, anche nel corso dei lavori, nella misura massima del settanta per cento dell'importo definito in sede di programma. Le procedure attuative degli interventi e le modalità di concessione ed erogazione dei contributi saranno stabilite in sede di approvazione dei programmi, uniformemente a quanto previsto per i programmi di edilizia residenziale pubblica di cui alla legge 17 febbraio 1992, n. 179 e relativi decreti attuativi.
