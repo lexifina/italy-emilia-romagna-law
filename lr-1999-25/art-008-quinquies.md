@@ -1,0 +1,5 @@
+Art. 8 quinquies
+Criteri per la gestione dei servizi
+1. Con direttiva della Giunta regionale sono stabiliti i criteri e le modalità per il rilascio da parte dell'Agenzia dell'autorizzazione a gestire il servizio nel caso la proprietà degli impianti, delle reti e delle altre dotazioni patrimoniali destinati alla produzione dei servizi sia di un soggetto diverso dagli enti locali. In ogni caso non può essere autorizzata la gestione di una sola parte del servizio.
+2. Nel caso di affidamento di una pluralità di servizi il gestore è comunque obbligato a tenere contabilità separate per ciascuno dei servizi erogati. Detto affidamento non può essere effettuato secondo le procedure di cui all'articolo 8 ter, comma 4.
+3. L'Agenzia di ambito può affidare ai soggetti gestori dei servizi nonchè delle reti, degli impianti e delle altre dotazioni ai sensi della presente legge, la progettazione delle opere strumentali alla gestione dei servizi. Detti soggetti sono tenuti al rispetto della normativa emanata in attuazione delle direttive comunitarie nonchè della legislazione in materia di lavori pubblici, nei limiti di ambito soggettivo della relativa applicabilità.

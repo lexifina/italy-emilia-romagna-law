@@ -1,0 +1,3 @@
+Art. 8 quater
+Disposizioni per i Comuni con popolazione inferiore a 5 mila abitanti
+1. I Comuni con popolazione inferiore a 5 mila abitanti che si avvalgono della facoltà di richiedere al gestore del servizio standard qualitativi particolari per la valorizzazione delle risorse locali rispetto a quelli determinati dall'Agenzia sono tenuti a formalizzarne il contenuto prima dell'espletamento della procedura ad evidenza pubblica per la loro inclusione nel bando ovvero prima della stipulazione della convenzione. La convenzione tra l'Agenzia e il gestore comprende anche gli standard qualitativi di servizio richiesti dai singoli Comuni.
