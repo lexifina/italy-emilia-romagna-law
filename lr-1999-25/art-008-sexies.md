@@ -1,4 +1,4 @@
-CAPO II ter
+CAPO II TER
 FUNZIONI REGIONALI
 Art. 8 sexies
 Funzioni regionali
