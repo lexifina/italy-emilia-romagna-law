@@ -1,0 +1,1 @@
+La presente legge regiole sarà pubblicata nel Bollettino Ufficiale della Regione. È fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge della Regione Emilia-Romagna. Bologna, 27 dicembre 1984
