@@ -1,0 +1,4 @@
+Articolo aggiunto
+Nell'ambito delle competenze trasferite o delegate alla Regione in materia di opere idrauliche, difesa del suolo ed acque pubbliche a norma degli articoli 66, 69, 87, 89 e 90 del D.P.R. 24.7.1977 n. 616, l'Amministrazione regionale è autorizzata ad effettuare studi, indagini e progettazioni per l'elaborazione dei piani di bacino a carattere interregionale.
+Per il più sollecito espletamento di tali compiti, l'Amministrazione regionale può provvedere anche mediante incarichi professionali a soggetti in possesso di comprovati requisiti di capacità, esperienza e professionalità.
+La Regione Emila-Romagna è autorizzata a stanziare per la realizzazione delle iniziative previste dal presente articolo L.1.000.000.000 nel biennio 1982/1983 in ragione di L.500.000.000 annui.(Cap. 39051 c.n.i.)
