@@ -1,0 +1,10 @@
+Art. 41 bis
+Sanzioni
+1.
+Si applica la sanzione amministrativa prevista dall'articolo 22, comma 1 del decreto legislativo n. 114 del 1998 nei seguenti casi:
+a) esercizio dell'attività commerciale in violazione delle disposizioni dell'articolo 41;
+b) esercizio dell'attività commerciale in violazione di un provvedimento di divieto di prosecuzione dell'attività adottato ai sensi dell'articolo 19, comma 3, della legge n. 241 del 1990;
+c) esercizio dell'attività commerciale in mancanza dei requisiti morali o professionali di cui all'articolo 71 del decreto legislativo 26 marzo 2010, n. 59 (Attuazione della direttiva 2006/123/CE relativa ai servizi nel mercato interno) e all'articolo 6, commi 2 e 5, della legge regionale 26 luglio 2003, n. 14 (Disciplina dell'esercizio delle attività di somministrazione di alimenti e bevande).
+2. A chiunque eserciti l'attività commerciale in mancanza dei requisiti morali o professionali di cui al comma 1, lettera c), si applicano le sanzioni amministrative previste dall'articolo 22, commi 4 e 5, del decreto legislativo n. 114 del 1998.
+3. Le sanzioni previste dal presente articolo si applicano in mancanza di diversa disposizione sanzionatoria prevista dalla legge dello Stato.
+4. Il Comune è competente a ricevere il rapporto di cui all'articolo 14 della legge regionale 28 aprile 1984, n. 21 (Disciplina dell'applicazione delle sanzioni amministrative di competenza regionale), applica le sanzioni amministrative e introita i proventi.
