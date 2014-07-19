@@ -1,0 +1,5 @@
+Art. 50-ter
+Pubblicità
+1. Il responsabile del procedimento, con idonei mezzi, dà pubblico avviso della convocazione dell'istruttoria pubblica. L'avviso reca l'indicazione della data e del luogo della prima seduta, da tenersi non prima di quindici giorni ed entro trenta giorni dalla pubblicazione dell'avviso stesso, e di quelle successive. L'avviso può anche prevedere la partecipazione dei soggetti interessati tramite videoconferenza. In ogni caso l'avviso di istruttoria è pubblicato nel Bollettino Ufficiale della Regione e su almeno due quotidiani a diffusione regionale.
+2. Nei quindici giorni precedenti l'audizione, il fascicolo comprendente gli elementi già acquisiti nel corso del procedimento, ad eccezione di quelli considerati riservati per legge, è consultabile nelle modalità indicate nell'avviso.
+3. Qualora una richiesta di partecipazione debba essere respinta, in quanto non compatibile con le categorie previste dallo Statuto, il responsabile del procedimento ne dà adeguata motivazione.
