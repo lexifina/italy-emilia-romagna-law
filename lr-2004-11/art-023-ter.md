@@ -1,0 +1,5 @@
+Art. 23 ter
+Nodo telematico di interscambio
+1. La promozione del SiCiPa-ER e lo svolgimento delle attività strumentali e connesse per sviluppare il processo di dematerializzazione del ciclo passivo delle acquisizioni sono affidati all'agenzia di cui all'articolo 19.
+2. Ai fini di cui al comma 1, l'agenzia provvede a realizzare un nodo telematico di interscambio che costituisce lo strumento organizzativo interoperabile per la gestione dei documenti del ciclo passivo delle acquisizioni, ed in particolare delle fatture. Tale nodo assicura l'inoltro ed il ricevimento di documenti validati e conformi agli standard e alle regole tecniche europee e statali. Consente altresì l'accesso alle funzioni di archiviazione e conservazione digitale di cui all'articolo 2, comma 4 bis.
+3. La Giunta regionale definisce, nel rispetto delle disposizioni statali vigenti, le modalità per la gestione del nodo telematico di interscambio e per la sua utilizzazione ai sensi dell'articolo 23 quater, anche al fine di garantire l'integrazione del SiCiPA-ER nei sistemi informativi dello Stato.
