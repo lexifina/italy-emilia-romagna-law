@@ -17,3 +17,8 @@ a) assenza del titolare del tesserino identificativo o mancata esposizione del t
 b) mancata consegna al Comune, in occasione della vidimazione del tesserino, dell'elenco dei beni oggetto di vendita, baratto, proposta o esposizione, ovvero accertata incompletezza o non veridicità del medesimo elenco;
 c) vendita, baratto, proposta o esposizione di più di un oggetto con un prezzo superiore a euro 100,00.
 13. Il Comune è competente a ricevere il rapporto di cui all'articolo 14 della legge regionale 28 aprile 1984, n. 21 (Disciplina dell'applicazione delle sanzioni amministrative di competenza regionale), applica le sanzioni amministrative e introita i proventi.
+13 bis.
+Sono esentate dalle prescrizioni del presente articolo:
+a) le manifestazioni riservate ai minori di anni diciotto;
+b) le mostre zoologiche, filateliche, numismatiche e mineralogiche, quando non abbiano finalità commerciale;
+c) le mostre-scambio esclusivamente di auto e moto d'epoca che non abbiano frequenza superiore a due volte all'anno.
