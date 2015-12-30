@@ -1,0 +1,5 @@
+Art. 7 bis
+Priorità e premialità
+1. In coerenza con quanto previsto all'articolo 2, comma 1, lettera f), per la concessione di contributi, finanziamenti, agevolazioni e facilitazioni agli esercenti di esercizi commerciali, ai gestori dei circoli privati e di altri luoghi deputati all'intrattenimento costituisce condizione di priorità e premialità la disponibilità del marchio dell'articolo 7.
+2. Rientrano nel comma 1 tutte le agevolazioni, gli incentivi finanziari e i contributi previsti da normativa regionale o sostenuti con fondi regionali o ricondotti alla programmazione regionale.
+3. La Giunta regionale con proprio atto, entro 120 giorni dall'entrata in vigore della legge regionale di stabilità per il 2016, sentita la competente Commissione assembleare ed acquisito il parere del CAL di cui alla legge regionale 9 ottobre 2009, n. 13 (Istituzione del Consiglio delle autonomie locali), approva, nei limiti delle possibilità della legislazione vigente, specifica direttiva per l'attuazione dei commi 1 e 2.

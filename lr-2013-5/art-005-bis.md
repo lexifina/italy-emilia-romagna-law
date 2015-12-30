@@ -1,0 +1,3 @@
+Art. 5 bis
+Assistenza tecnica, coordinamento, supporto consulenziale
+1. La Regione realizza funzioni di assistenza tecnica, giuridica, consulenziale e progettuale agli Enti Locali in riferimento alla disciplina ed alle autorizzazioni relative alle sale giochi di cui all'articolo 1, comma 2, con particolare riguardo agli orari di apertura, ai requisiti architettonici, strutturali, edilizi e dimensionali, alle previsioni degli orari di apertura, all'ubicazione, al fine di sostenere l'adozione di soluzioni strettamente coerenti con le finalità dell'articolo 1, comma 1 e con l'obiettivo di tutela della salute pubblica dai rischi di diffusione di forme di dipendenza dal gioco.
