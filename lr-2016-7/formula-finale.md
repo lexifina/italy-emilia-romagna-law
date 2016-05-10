@@ -1,0 +1,1 @@
+Bologna, 9 maggio 2016 STEFANO BONACCINI
