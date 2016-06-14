@@ -1,0 +1,1 @@
+Bologna, 30 maggio 2016 STEFANO BONACCINI
