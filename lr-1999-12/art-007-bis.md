@@ -22,3 +22,7 @@ Sono esentate dalle prescrizioni del presente articolo:
 a) le manifestazioni riservate ai minori di anni diciotto;
 b) le mostre zoologiche, filateliche, numismatiche e mineralogiche, quando non abbiano finalità commerciale;
 c) le mostre-scambio esclusivamente di auto e moto d'epoca che non abbiano frequenza superiore a due volte all'anno.
+13 ter.
+Limitatamente all'anno 2016, sono previste le seguenti disposizioni transitorie:
+a) coloro che hanno già ottenuto il rilascio di due tesserini negli anni 2013, 2014 o 2015 possono richiedere al Comune competente il rilascio di un ulteriore tesserino;
+b) i tesserini rilasciati nell'anno 2015 conservano efficacia per tutto l'anno 2016, fino alla completa vidimazione degli spazi.
