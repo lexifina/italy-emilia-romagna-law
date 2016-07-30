@@ -1,0 +1,4 @@
+Art. 10 bis
+Conferenza permanente per la programmazione sanitaria e socio-sanitaria
+1. Salvo quanto previsto dal comma 2 dell'art. 11 e dal comma 7 dell'art. 18, i compiti e le funzioni della Conferenza permanente per la programmazione sanitaria e socio-sanitaria regionale, prevista al comma 2 bis dell'art. 2 del decreto legislativo di riordino, sono svolti dalla Conferenza Regione-Autonomie locali di cui all'art. 25 della l.r. 3/1999, integrata dai Presidenti delle Conferenze sanitarie territoriali di cui all'art. 11 e dal Presidente della Conferenza sanitaria Regione-Area Metropolitana di Bologna di cui all'art. 18 della presente legge, qualora non ne facciano parte ad altro titolo.
+2. La Conferenza Regione-Autonomie locali esercita inoltre i compiti attribuiti dalla legislazione regionale alla Assemblea permanente della Regione e delle autonomie locali soppressa dalla l.r. 3/1999.
