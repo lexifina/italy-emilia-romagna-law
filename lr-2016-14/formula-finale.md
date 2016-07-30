@@ -1,0 +1,1 @@
+Bologna, 29 luglio 2016 STEFANO BONACCINI
