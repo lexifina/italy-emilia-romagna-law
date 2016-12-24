@@ -1,0 +1,1 @@
+Bologna, 23 dicembre 2016 STEFANO BONACCINI
