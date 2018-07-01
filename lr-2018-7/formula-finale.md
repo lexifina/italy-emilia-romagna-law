@@ -1,0 +1,1 @@
+Bologna, 8 giugno 2018 STEFANO BONACCINI
