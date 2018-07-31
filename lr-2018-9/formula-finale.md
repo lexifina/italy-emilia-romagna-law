@@ -1,0 +1,1 @@
+Bologna, 16 luglio 2018 STEFANO BONACCINI
