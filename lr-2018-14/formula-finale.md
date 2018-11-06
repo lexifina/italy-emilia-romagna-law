@@ -1,0 +1,1 @@
+Bologna, 22 ottobre 2018 STEFANO BONACCINI
