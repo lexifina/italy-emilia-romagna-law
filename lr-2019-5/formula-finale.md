@@ -1,0 +1,1 @@
+Bologna, 3 giugno 2019 STEFANO BONACCINI
