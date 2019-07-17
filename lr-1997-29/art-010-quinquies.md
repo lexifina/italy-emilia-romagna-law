@@ -1,0 +1,6 @@
+Art. 10 quinquies
+Accesso dei cani di accompagnamento dei disabili nelle strutture e nei luoghi pubblici e negli esercizi aperti al pubblico
+1. I cani di accompagnamento delle persone con disabilità, condotti dal disabile, possono accedere ai luoghi pubblici nonché alle strutture pubbliche e ad esse equiparate presenti sul territorio regionale, fermo restando quanto previsto per l'accesso alle strutture ospedaliere dall'art. 4 ter della legge regionale 17 febbraio 2005, n. 5 (Norme a tutela del benessere animale).
+2. I cani di accompagnamento di cui al comma 1 possono accedere, altresì, agli esercizi commerciali e aperti al pubblico presenti sul territorio regionale.
+3. Le persone con disabilità che conducano i propri cani di accompagnamento nei luoghi di cui ai commi 1 e 2, sono tenuti ad osservare le prescrizioni di cui al comma 2 dell'articolo 10 quater.
+4. I titolari degli esercizi di cui al comma 2 che impediscono od ostacolano l'accesso alle persone disabili accompagnate dal cane di accompagnamento sono puniti con la sanzione amministrativa pecuniaria da euro 500,00 a euro 2.500,00. L'individuazione dei soggetti competenti ad accertare e contestare le violazioni è demandata ai Comuni.
