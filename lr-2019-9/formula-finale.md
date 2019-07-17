@@ -1,0 +1,2 @@
+Bologna, 2 luglio 2019
+STEFANO BONACCINI
