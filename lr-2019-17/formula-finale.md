@@ -1,0 +1,1 @@
+Bologna, 31 luglio 2019 STEFANO BONACCINI
