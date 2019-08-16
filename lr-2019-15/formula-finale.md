@@ -1,0 +1,1 @@
+Bologna, 1 agosto 2019 STEFANO BONACCINI
