@@ -1,0 +1,4 @@
+Art. 16 bis
+Tavolo per il sistema fieristico regionale
+1. Al fine di elaborare iniziative volte alla promozione e alla realizzazione di un sistema fieristico regionale integrato e coordinato è istituito il Tavolo per il sistema fieristico regionale, il quale per lo svolgimento delle proprie attività può avvalersi di apposita struttura tecnico-giuridica.
+2. Con apposito atto della Giunta regionale sono definiti i criteri di composizione e le modalità di funzionamento del Tavolo, nonché i compiti del medesimo.
