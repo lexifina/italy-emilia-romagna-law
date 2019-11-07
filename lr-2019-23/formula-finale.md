@@ -1,0 +1,1 @@
+Bologna, 6 novembre 2019 STEFANO BONACCINI
