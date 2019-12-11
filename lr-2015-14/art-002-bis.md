@@ -1,0 +1,4 @@
+Art. 2 bis
+Trattamento dei dati personali
+1. Le finalità elencate nell'articolo 1 afferiscono ai motivi di interesse pubblico rilevante di cui all'articolo 2-sexies, comma 2, lettera dd), del decreto legislativo 30 giugno 2003, n. 196 (Codice in materia di protezione dei dati personali, recante disposizioni per l'adeguamento dell'ordinamento nazionale al regolamento (UE) n. 2016/679 del Parlamento europeo e del Consiglio, del 27 aprile 2016, relativo alla protezione delle persone fisiche con riguardo al trattamento dei dati personali, nonché alla libera circolazione di tali dati e che abroga la direttiva 95/46/CE).
+2. La Giunta regionale con proprio regolamento individua i tipi di dati personali che possono essere trattati, le operazioni eseguibili nonché le misure appropriate e specifiche per tutelare i diritti fondamentali e gli interessi dell'interessato.
