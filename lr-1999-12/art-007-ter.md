@@ -1,0 +1,6 @@
+Art. 7 ter
+Norme transitorie in materia di commercio in forma hobbistica su aree pubbliche
+1.
+Ai fini dell'applicazione dell'articolo 7 bis, limitatamente all'anno 2020, a seguito dell'emergenza sanitaria Covid-19 che ha comportato la sospensione dell'attività mercatale, sono previste le seguenti disposizioni transitorie:
+a) i nuovi tesserini identificativi da hobbista conformi al modello previsto dall'articolo 7 bis, commi 3 e 5, rilasciati anteriormente alla data del 1° luglio 2020, conservano la loro efficacia fino alla completa vidimazione degli spazi e comunque non oltre il 30 giugno 2021;
+b) i nuovi tesserini identificativi da hobbista conformi al modello previsto dall'articolo 7 bis, commi 3 e 5, rilasciati negli anni 2019 e 2020, non sono tenuti in considerazione ai fini del conteggio del numero massimo di tesserini rilasciabili per nucleo di residenti nella stessa unità immobiliare di cui all'articolo 7 bis, comma 5.
