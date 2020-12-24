@@ -1,0 +1,1 @@
+Bologna , 23 dicembre 2020 STEFANO BONACCINI
