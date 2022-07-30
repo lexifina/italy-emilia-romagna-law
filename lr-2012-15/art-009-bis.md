@@ -1,0 +1,4 @@
+Art. 9 bis
+Accordi tra enti per una migliore gestione della fiscalità dell'automobile
+1. Per rendere più efficace l'azione amministrativa di contrasto all'evasione e all'elusione fiscale, la Regione può stipulare accordi o intese con Enti Locali, Amministrazioni statali e altri enti pubblici, aventi ad oggetto lo scambio di informazioni inerenti il parco auto del territorio regionale, nonché la realizzazione di progetti operativi, anche in via sperimentale, finalizzati alla creazione di banche dati integrate, nel rispetto della normativa sulla tutela dei dati personali.
+2. La cooperazione tra i soggetti interessati alle finalità di cui al comma 1, oltre a perseguire la correttezza e l'equità nella gestione dei tributi, si prefigge altresì lo scopo di migliorare il rapporto con il contribuente sia sotto il profilo della comunicazione che sotto il profilo della sicurezza stradale conseguente all'impiego delle maggiori risorse recuperate.
