@@ -1,0 +1,3 @@
+Art. 5 bis
+Pubblicità legale degli atti delle aziende sanitarie e degli enti del Servizio sanitario regionale
+1. Le aziende sanitarie e gli enti del Servizio sanitario regionale pubblicano, anche per estratto, nell'albo istituito ai sensi dell'articolo 32 della legge 18 giugno 2009, n. 69 (Disposizioni per lo sviluppo economico, la semplificazione, la competitività nonché in materia di processo civile) e nel rispetto di quanto disposto dalla normativa in materia di protezione dei dati personali, le deliberazioni del direttore generale e le determinazioni dirigenziali. Tali atti sono pubblicati per quindici giorni consecutivi, se non diversamente stabilito da specifiche disposizioni, e diventano esecutivi dal giorno della loro pubblicazione.
