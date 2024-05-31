@@ -1,0 +1,5 @@
+Art. 2 bis
+Giovani caregiver
+1. Ai fini della presente legge, per giovane caregiver si intende la persona di età fino ai ventiquattro anni che si prende cura di una persona cara secondo le condizioni e modalità previste dall'articolo 2, comma 1.
+2. La Regione promuove l'identificazione dei giovani caregiver al fine di comprenderne i bisogni, sostenerli, tutelarne il diritto all'educazione e all'istruzione, promuoverne il benessere psico-fisico, validarne le competenze acquisite e facilitarne la transizione dalla scuola al lavoro.
+3. La Regione si impegna altresì a predisporre accordi quadro con l'Ufficio scolastico regionale e gli Atenei regionali per favorire la conciliazione tra tempo di cura e tempo di studio e valorizzare l'impegno di cura.

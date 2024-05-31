@@ -1,0 +1,11 @@
+Art. 7 bis
+Clausola valutativa
+1.
+L'Assemblea legislativa esercita il controllo sull'attuazione della presente legge e ne valuta i risultati ottenuti. A tal fine, con cadenza triennale, la Giunta regionale presenta alla competente Commissione assembleare una relazione che fornisca informazioni relativamente a:
+a) numero di caregiver che hanno effettuato l'autocertificazione, numero di caregiver a cui è stata somministrata la scala di valutazione dello stress, numero di caregiver ai quali è stata effettuata la rilevazione dei bisogni e la definizione degli interventi di sostegno avvalendosi della sezione caregiver del PAI in conformità con le normative regionali vigenti e successive modifiche;
+b) numero e tipologia delle prestazioni erogate dalle aziende sanitarie locali per fronteggiare lo stress del caregiver;
+c) numero di caregiver familiari che hanno partecipato ad attività di formazione e numero di caregiver familiari che, ai sensi dell'articolo 6, hanno effettuato la validazione o certificazione delle competenze, nonché il numero di studenti caregiver familiari a cui sono stati riconosciuti crediti formativi;
+d) valutazione dell'efficacia delle misure di formazione e certificazione delle competenze per i caregiver familiari;
+e) eventuali criticità emerse dall'applicazione della presente legge.
+2. In base ai risultati della valutazione, la Giunta regionale può proporre modifiche alla legge per migliorare ulteriormente il supporto ai caregiver familiari e alle persone assistite.
+3. Le competenti strutture dell'Assemblea legislativa e della Giunta si raccordano per la migliore valutazione della presente legge.
