@@ -1,0 +1,1 @@
+Bologna, 10 dicembre 2019 STEFANO BONACCINI
