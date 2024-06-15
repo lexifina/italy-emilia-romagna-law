@@ -1,0 +1,1 @@
+Bologna, 27 dicembre 2017 STEFANO BONACCINI
