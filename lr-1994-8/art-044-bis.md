@@ -1,0 +1,12 @@
+Art. 44 bis
+Tassa di concessione regionale per l'abilitazione all'esercizio venatorio
+1. La tassa di concessione regionale per l'abilitazione all'esercizio venatorio, di durata annuale, è determinata nella misura prevista dalla tariffa delle tasse sulle concessioni regionali, approvata con il decreto legislativo 22 giugno 1991, n. 230 e successive modificazioni.
+2. Il versamento della tassa da corrispondere a norma dell' art. 3 della L.R. 23 agosto 1979, n. 26 e successive modificazioni, deve essere effettuato in occasione del pagamento della tassa di rilascio o di rinnovo della concessione governativa per la licenza di porto di fucile per uso di caccia ed ha validità di un anno dalla data di rilascio della concessione governativa.
+3. abrogato.
+4. La ricevuta del versamento deve essere allegata al tesserino per l'esercizio venatorio.
+5. In caso di difformi scadenze eventualmente riscontrabili tra la data del versamento della tassa regionale e di quella governativa, la validità del versamento della tassa regionale è procrastinata sino alla scadenza della tassa di concessione governativa.
+6. La tassa annuale non è dovuta qualora il cacciatore non eserciti l'attività venatoria durante l'anno, ovvero la eserciti esclusivamente all'estero.
+7. È esonerato dal versamento della tassa il cacciatore che, prima dell'inizio della stagione venatoria, dichiari, in forma espressa sotto la sua personale responsabilità, di optare per l'esercizio esclusivo nelle aziende venatorie di cui all'art. 43 e di rinunciare all'assegnazione di ambito territoriale di caccia e comunque all'esercizio venatorio in qualsiasi altra forma consentita in territorio non riservato alle aziende stesse.
+8. Nell'ipotesi prevista dal comma 7, la dichiarazione del cacciatore deve essere esibita al Comune ai fini del rilascio del tesserino per l'esercizio venatorio e deve essere allegata al tesserino medesimo.
+9. La tassa regionale deve essere rimborsata nel caso di diniego della licenza di porto di fucile per uso di caccia.
+10. Aumenti della tassa possono essere disposti con legge regionale a norma dell' art. 3 della legge 16 maggio 1970, n. 281 e successive modificazioni.

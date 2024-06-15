@@ -1,0 +1,3 @@
+Art. 16 bis
+Destinazione della fauna selvatica catturata o abbattuta
+1. La scelta della destinazione degli animali catturati o abbattuti nell'ambito del controllo delle specie di fauna selvatica di cui al comma 2 dell'art. 19 della legge statale spetta alla Regione.

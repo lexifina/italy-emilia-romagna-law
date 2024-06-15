@@ -1,0 +1,4 @@
+Art. 45 bis
+Fondi chiusi
+1. L'esercizio venatorio è vietato a chiunque nei fondi chiusi da muro o da rete metallica o da altra effettiva chiusura, di altezza non inferiore a metri 1,20, o da corsi o specchi d'acqua perenni il cui letto abbia la profondità di almeno metri 1,50 e la larghezza di almeno metri 3. I fondi chiusi devono essere notificati ai competenti uffici regionali. I proprietari o i conduttori dei fondi di cui al presente articolo provvedono ad apporre a loro carico adeguate tabellazioni esenti da tasse.
+2. Per la protezione delle colture agricole e su richiesta del proprietario o conduttore, la Regione può autorizzare catture di fauna selvatica nel rispetto delle disposizioni dell'art. 27; la Regione può altresì, in accordo con il proprietario o conduttore, effettuare catture di fauna selvatica. In entrambi i casi la fauna selvatica catturata viene destinata a scopo di ripopolamento.
