@@ -1,0 +1,1 @@
+Bologna, 27 luglio 2018 STEFANO BONACCINI
