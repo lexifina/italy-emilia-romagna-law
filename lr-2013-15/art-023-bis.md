@@ -1,0 +1,19 @@
+Art. 23 bis
+Casi particolari di attestazione dei requisiti igienico-sanitari per la destinazione residenziale
+1.
+Nelle more della definizione dei requisiti di cui all' articolo 20, comma 1 bis, del decreto del Presidente della Repubblica n. 380 del 2001, ai fini dell'attestazione delle condizioni di cui al comma 3, lettera b), dell'articolo 23 per gli immobili e le unità immobiliari a destinazione residenziale, fermo restando il rispetto degli altri requisiti igienico-sanitari previsti dalla normativa vigente, il progettista abilitato, in sede di presentazione della segnalazione certificata di conformità edilizia e di agibilità, è autorizzato ad asseverare la conformità del progetto alle norme igienico-sanitarie nelle seguenti ipotesi:
+a) locali con un'altezza utile inferiore a 2,70 metri fino al limite massimo di 2,40 metri;
+b) alloggio monostanza, con una superficie minima, comprensiva dei servizi, inferiore a 28 metri quadrati, fino al limite massimo di 20 metri quadrati, per una persona, e inferiore a 38 metri quadrati, fino al limite massimo di 28 metri quadrati, per due persone.
+2.
+L'asseverazione di cui al comma 1 può essere resa ove sia soddisfatto il requisito dell'adattabilità, in relazione alle specifiche funzionali e dimensionali, previsto dal regolamento di cui al decreto del Ministro dei lavori pubblici 14 giugno 1989, n. 236, e sia soddisfatta almeno una delle seguenti condizioni:
+a) i locali siano situati in edifici sottoposti a interventi di recupero edilizio, di cui all' articolo 31, primo comma, lettere b), c), d) ed e),della legge 5 agosto 1978, n. 457 (Norme per l'edilizia residenziale), e di miglioramento delle caratteristiche igienico-sanitarie;
+b) sia contestualmente presentato un progetto di ristrutturazione con soluzioni alternative atte a garantire, in relazione al numero degli occupanti, idonee condizioni igienico-sanitarie dell'alloggio, ottenibili prevedendo una maggiore superficie dell'alloggio e dei vani abitabili ovvero la possibilità di un'adeguata ventilazione naturale favorita dalla dimensione e tipologia delle finestre, dai riscontri d'aria trasversali e dall'impiego di mezzi di ventilazione naturale ausiliari.
+3.
+Le disposizioni di cui ai commi 1 e 2 trovano altresì applicazione:
+a) nei casi di interventi di ristrutturazione con demolizione e ricostruzione e di interventi di recupero di volumetrie esistenti attraverso demolizione e nuova costruzione, a condizione che i requisiti di cui al comma 1 siano legittimamente presenti nell'edificio originario e quest'ultimo abbia destinazione d'uso residenziale;
+b) per gli interventi di mutamento d'uso verso la destinazione residenziale con opere diverse da quelle previste dalla lettera a);
+c) per gli interventi in immobili o unità immobiliari a destinazione residenziale che comportino il mutamento di superficie accessoria in superficie utile in conformità alla disciplina urbanistica.
+4.
+Fermi restando i casi di cui ai commi 2 e 3, il progettista abilitato è autorizzato ad asseverare la conformità del progetto alle norme igienico-sanitarie di cui al comma 1 anche nelle seguenti ipotesi:
+a) per la presentazione della segnalazione certificata di conformità edilizia e di agibilità per titoli edilizi rilasciati o assentiti prima del 28 luglio 2024, relativi ad interventi sul patrimonio edilizio esistente che prevedevano legittimamente dette caratteristiche dimensionali, in ragione delle deroghe previste dalla disciplina vigente;
+b) per la presentazione della segnalazione certificata di conformità edilizia e di agibilità senza la realizzazione di lavori, ai sensi dell'articolo 23, comma 2, per immobili che abbiano beneficiato di un condono edilizio senza conseguire l'agibilità per il mancato rispetto dei requisiti igienico-sanitari previgenti, qualora sia soddisfatta almeno una delle condizioni di cui al comma 2.
