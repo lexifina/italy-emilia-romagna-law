@@ -1,0 +1,15 @@
+Art. 17 septies
+Attività di collaborazione con soggetti privati
+1. Gli Enti locali possono avvalersi, ai sensi degli articoli 8 e 10, della collaborazione di volontari e di guardie particolari giurate, con funzioni ausiliarie, a supporto delle attività di polizia locale. Il loro utilizzo è volto a realizzare una presenza attiva sul territorio, aggiuntiva e non sostitutiva rispetto a quella ordinariamente garantita dalla polizia locale e a condizione che avvenga sulla base del coordinamento del comandante o del responsabile della polizia locale o di altro addetto da esso individuato.
+2.
+I volontari possono essere impiegati, a supporto delle funzioni di polizia locale svolte dagli addetti, in particolare nelle attività:
+a) di prevenzione e mediazione dei conflitti stradali;
+b) di prevenzione dei rischi legati alla circolazione stradale e di promozione della mobilità sostenibile;
+c) di educazione e sensibilizzazione all'uso consapevole dello spazio pubblico e dei beni della collettività;
+d) di informazione e sensibilizzazione con riguardo alla corretta fruizione dei parchi e delle aree verdi urbane;
+e) di assistenza e informazione alla cittadinanza durante le fiere e i mercati, nelle spiagge o in altri luoghi e situazioni in cui tali attività sono utili;
+f) altre attività contemplate dalla normativa specifica di settore in tema di tutela ambientale e di vigilanza faunistico-venatoria e ittica.
+3. Le attività prestate dai volontari ai sensi del comma 2 sono valorizzate in sede di valutazione nelle selezioni per l'accesso al ruolo della polizia locale, sulla base delle modalità definite dalla Giunta regionale.
+4. Qualora i gestori e gli organizzatori di eventi aperti al pubblico, in particolare nel settore dell'intrattenimento e dello spettacolo si avvalgano degli addetti ai servizi di controllo di cui ai commi da 7 a 13 dell'articolo 3 della legge n. 94 del 2009, per lo svolgimento di attività di Street Tutor, tali addetti cooperano con le polizie locali territorialmente competenti secondo le modalità definite nell'atto di cui all'articolo 9, comma 3.
+5. I corpi e i servizi di polizia locale sostengono l'azione dei gruppi di vicinato o gruppi di cittadinanza attiva altrimenti denominati e collaborano attraverso modalità di raccordo e di comunicazione di volta in volta definite con gli stessi, sulla base delle direttive approvate dalla Giunta regionale su parere delle competenti Commissioni assembleari e del Consiglio delle Autonomie locali.
+6. Al fine di valorizzare il ruolo di polizia di comunità, i corpi e i servizi di polizia locale si possono avvalere della collaborazione di soggetti che beneficiano della concessione prevista dall'articolo 168 bis del codice penale o che siano destinatari di percorsi di avvicinamento al mondo del lavoro o impiegati in ogni altra tipologia di servizio utile alla collettività.

@@ -1,0 +1,6 @@
+Sezione V bis
+Promozione del benessere degli operatori della polizia locale
+Art. 19 sexies
+Prevenzione, formazione e analisi dei rischi lavorativi
+1. La Regione Emilia-Romagna, assumendo come valore il benessere psico-fisico degli operatori di polizia locale, anche inteso quale benessere organizzativo, nell'ambito delle attività e iniziative di cui all'articolo 18, promuove azioni orientate alla formazione e aggiornamento professionale, allo studio ed analisi degli specifici rischi lavorativi, in ottica di prevenzione e di monitoraggio dei fenomeni.
+2. I comandi di polizia locale possono organizzare percorsi formativi volti a migliorare la sicurezza degli addetti rispetto ai rischi specifici dell'attività di polizia locale.

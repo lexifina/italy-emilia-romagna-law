@@ -1,0 +1,7 @@
+Art. 17 bis
+Elenco dei comandanti di corpo e dei responsabili di servizio di polizia locale
+1. È istituito presso la struttura regionale competente in materia di polizia locale l'elenco dei comandanti di corpo e dei responsabili di servizio di polizia locale, da cui deve risultare il percorso formativo e professionale individuale.
+2. Possono chiedere l'iscrizione all'elenco i comandanti di corpo e i responsabili di servizio di polizia locale che abbiano frequentato un apposito percorso formativo disciplinato dalla Giunta regionale.
+3. Gli Enti locali possono servirsi dell'elenco di cui al comma 1 per valutare, nell'ambito dei propri processi di selezione, i soggetti in possesso delle professionalità utili allo svolgimento delle attività di comando presso le proprie strutture di polizia locale.
+4. Oltre all'elenco di cui al comma 1, viene altresì redatto un elenco di soggetti che hanno frequentato e superato un apposito percorso formativo di preparazione allo svolgimento del ruolo di comandante di polizia locale. Tale percorso, che potrà essere organizzato e curato anche in collaborazione con le Università, è disciplinato dalla Giunta regionale.
+5. La Giunta regionale, sentiti il Consiglio delle Autonomie locali e le Organizzazioni sindacali maggiormente rappresentative, stabilisce con proprio atto i requisiti per l'iscrizione negli elenchi di cui ai commi 1 e 4 e le modalità della loro gestione, nel rispetto della normativa vigente in materia di protezione dei dati personali.
