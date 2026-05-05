@@ -1,0 +1,1 @@
+Bologna, 4 marzo 2019 STEFANO BONACCINI
