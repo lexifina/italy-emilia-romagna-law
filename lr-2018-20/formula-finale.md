@@ -1,0 +1,1 @@
+Bologna, 20 dicembre 2018 STEFANO BONACCINI
