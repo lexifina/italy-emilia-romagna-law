@@ -1,0 +1,1 @@
+Bologna, 31 maggio 2017 STEFANO BONACCINI
