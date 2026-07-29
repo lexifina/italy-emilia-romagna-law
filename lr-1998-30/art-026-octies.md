@@ -1,0 +1,12 @@
+Art. 26 octies
+Sospensione e revoca dell'autorizzazione
+1. L'autorizzazione è sospesa da un minimo di venti giorni ad un massimo di quaranta giorni qualora un'impresa commetta nel corso di un anno quattro infrazioni alle prescrizioni del regolamento regionale previste dall'articolo 26 septies, comma 2, lettere a) e b), concernenti la sicurezza e la regolarità del servizio, o contravvenzioni alle disposizioni di cui all'articolo 6 della legge n. 218 del 2003. Qualora l'impresa commetta due o più infrazioni gravi l'autorizzazione è sospesa da un minimo di trenta giorni ad un massimo di sessanta giorni.
+2. L'autorizzazione è sospesa da un minimo di tre mesi ad un massimo di un anno quando un'impresa commette nel corso di un anno almeno due infrazioni alle prescrizioni del regolamento regionale di cui all'articolo 26 septies, comma 2, lettera e), concernenti la regolarità contributiva dei conducenti.
+3. L'autorizzazione è sospesa da un minimo di sette ad un massimo di trenta giorni qualora una impresa commetta, nel corso di un anno, quattro infrazioni alle prescrizioni del regolamento regionale di cui all'articolo 26 septies, comma 2, lettera c), concernenti la regolarità della documentazione attestante il possesso dei requisiti e gli adempimenti necessari al corretto svolgimento dell'attività. Qualora l'impresa commetta due o più infrazioni gravi l'autorizzazione è sospesa da un minimo di venti giorni ad un massimo di quarantacinque giorni.
+4. Fatto salvo quanto previsto per le infrazioni gravi, se l'impresa ha in disponibilità almeno dieci autobus il numero delle violazioni annuali di cui ai commi 1 e 3 che comportano sospensione dell'autorizzazione aumenta di una unità ed aumenta altresì di una ulteriore unità ogni cinque autobus in più disponibili, fino ad un massimo di dieci violazioni.
+5. Ai fini del presente articolo costituisce infrazione grave l'illecito punito con una sanzione superiore alla metà del massimo previsto.
+6.
+L'autorizzazione è revocata quando l'impresa:
+a) effettua il servizio nonostante la sospensione dell'autorizzazione;
+b) incorre nell'arco di cinque anni in provvedimenti di sospensione per un periodo superiore a centottanta giorni;
+c) non rispetta il principio di separazione contabile tra servizi sussidiati e servizi commerciali nel caso di società o imprese che svolgono sia servizi di trasporto pubblico locale, sia noleggio autobus con conducente.
