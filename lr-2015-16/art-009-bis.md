@@ -1,0 +1,4 @@
+Art. 9 bis
+Sanzioni per la violazione delle disposizioni dei regolamenti sulla tariffa puntuale dei rifiuti urbani
+1. La violazione delle disposizioni dei regolamenti sulla tariffa puntuale dei rifiuti urbani avente natura corrispettiva, di cui all' articolo 1, comma 668, della legge 27 dicembre 2013, n. 147 (Disposizioni per la formazione del bilancio annuale e pluriennale dello Stato (legge di stabilità 2014)) è punita con una sanzione amministrativa pecuniaria compresa tra un minimo di euro 50,00 ed un massimo di euro 500,00.
+2. L'accertamento e la contestazione delle violazioni di cui al comma 1 sono effettuate dai Comuni tramite il soggetto gestore del servizio di gestione dei rifiuti urbani nell'ambito delle relative funzioni. A tale fine i dipendenti del gestore sono nominati agenti accertatori con le modalità stabilite da Atersir con regolamento.

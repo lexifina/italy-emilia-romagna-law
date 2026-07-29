@@ -1,0 +1,1 @@
+Bologna, 5 ottobre 2015 STEFANO BONACCINI
