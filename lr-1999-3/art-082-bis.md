@@ -1,0 +1,13 @@
+Art. 82 bis
+Istituzione della Consulta ittica regionale
+1. È istituita, senza oneri a carico del bilancio regionale, la Consulta ittica regionale, presieduta dall'Assessore regionale competente in materia di pesca e acquicoltura o suo delegato, composta dai rappresentanti designati dalle organizzazioni imprenditoriali, cooperative e sindacali della pesca professionale e dell'acquicoltura maggiormente rappresentative a livello regionale.
+2. In relazione ai temi oggetto di consultazione, la Consulta può essere integrata da un rappresentante dell'Unione regionale delle Camere di commercio, industria, artigianato e agricoltura e da rappresentanti designati dagli organismi espressione dei soggetti operanti nella filiera, ivi comprese le associazioni dei consumatori e dei pescatori sportivi.
+3.
+La Consulta è organo consultivo della Giunta regionale e ha il compito di formulare proposte ed esprimere pareri:
+a) sulle linee generali di politica della pesca professionale, dell'acquicoltura e delle attività ad esse connesse e di pianificazione dell'uso del territorio e del mare per l'esercizio delle suddette attività;
+b) sui progetti di legge e direttive regionali riguardanti il settore ittico;
+c) sulle proposte dei bilanci pluriennali e preventivi annuali per la parte dedicata al settore ittico;
+d) sui programmi di attività e di intervento, compresi quelli di attuazione della politica europea, sui criteri e modalità di riparto dei finanziamenti relativi al settore ittico;
+e) ogni altro argomento che venga ad essa sottoposto dall'Assessore competente.
+4. I componenti della Consulta ed i supplenti sono nominati con deliberazione della Giunta regionale in base alle designazioni di cui al comma 1.
+5. La partecipazione alle sedute della Consulta non comporta la corresponsione di alcun compenso o rimborso di qualsiasi natura a favore dei partecipanti.

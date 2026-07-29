@@ -1,0 +1,13 @@
+Art. 164 ter
+Autostrade regionali
+1. Per autostrade regionali si intendono le arterie stradali, previste nel piano regionale integrato dei trasporti (PRIT), come definite dall'articolo 2 del decreto legislativo 30 aprile 1992, n. 285 (Nuovo codice della strada), finalizzate ad assolvere le richieste di mobilità originate e destinate all'interno del territorio della Regione ed il cui tracciato sia completamente compreso nel territorio regionale. Ai fini di cui al presente Capo hanno altresì carattere regionale i raccordi alla rete nazionale o di altre regioni.
+2. Il programma per la realizzazione delle autostrade regionali individua, nell'ambito della rete viaria di interesse regionale di cui all'articolo 163 e sulla base di uno studio di fattibilità, le opere da realizzare, il sistema di realizzazione ed il limite dell'eventuale partecipazione finanziaria della Regione.
+3. Il programma è approvato dal Consiglio regionale su proposta della Giunta, sentita la Conferenza Regione-Autonomie locali.
+4. La realizzazione delle autostrade regionali in attuazione del programma previsto ai commi 2 e 3 trova copertura nelle risorse stanziate per la rete viaria di cui all'articolo 167; le risorse, specificamente autorizzate dal bilancio regionale, per la realizzazione di autostrade regionali sono gestite dalla Regione ovvero dalle Province, sulla base di specifiche convenzioni che ne definiscono tempi, modalità e altri adempimenti.
+5.
+La Regione esercita, in materia di autostrade regionali, le funzioni relative:
+a) alla progettazione, esecuzione, manutenzione e gestione, cui provvede mediante concessione di costruzione e gestione ovvero con gli altri sistemi di realizzazione previsti dalle vigenti disposizioni in materia di lavori pubblici;
+b) alla approvazione delle concessioni di costruzione e gestione ed alla loro stipula;
+c) al controllo delle concessionarie autostradali relativamente all'esecuzione dei lavori, alla gestione dell'opera, al riassetto dei piani finanziari e all'applicazione delle tariffe;
+d) alla classificazione e declassificazione delle autostrade regionali.
+6. La Regione può delegare ai concessionari l'esercizio dei propri poteri espropriativi, che si rendano necessari per la realizzazione delle autostrade regionali, che lo esercitano in conformità alla concessione e secondo le modalità previste dalle disposizioni vigenti.

@@ -1,0 +1,7 @@
+Art. 167 bis
+Contributi per interventi sulla restante viabilità
+1. La Regione è autorizzata ad assegnare alla Città metropolitana di Bologna e alle Province fondi per interventi di sistemazione, miglioramento e costruzione di strade di proprietà comunale.
+2. La Giunta regionale approva il riparto dei fondi a favore delle Province che provvedono ad assegnarli ed erogarli ai Comuni proprietari delle strade.
+3. I fondi di cui al comma 2 possono essere altresì assegnati ed erogati dalle Province alle Comunità montane e alle forme associative dei Comuni alle quali siano state conferite le funzioni in materia di manutenzione delle strade.
+4. Le Province sono tenute ad inviare annualmente alla Regione l'elenco degli interventi ammessi a contributo e delle opere realizzate.
+4 bis La Regione è altresì autorizzata ad assegnare alla Città metropolitana di Bologna, alle Province, ai Comuni e alle loro Unioni fondi per la realizzazione di interventi sulla viabilità inseriti in provvedimenti di programmazione negoziata di cui alla legge regionale 20 aprile 2018, n. 5 (Norme in materia di interventi territoriali per lo sviluppo integrato degli ambiti locali) e, alla Città metropolitana di Bologna e alle Province, fondi per interventi sulla viabilità provinciale oggetto di cofinanziamento da parte di organismi di diritto pubblico o soggetti privati da disciplinare mediante convenzione, approvata dalla Giunta regionale.
