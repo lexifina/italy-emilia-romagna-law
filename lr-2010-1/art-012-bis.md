@@ -1,0 +1,10 @@
+Art. 12 bis
+Interventi per la digitalizzazione delle imprese
+1.
+La Regione, in armonia con gli altri strumenti regionali di politica economica e di regolazione tesi a valorizzare i progetti di ricerca scientifica, di sperimentazione tecnica e di innovazione tecnologica, interviene per favorire:
+a) il sostegno ai processi di innovazione, ricerca e trasferimento tecnologico all'interno delle imprese artigiane, con particolare attenzione ai processi di digitalizzazione e riorganizzazione dei processi produttivi aziendali;
+b) il sostegno alla produzione innovativa quale modalità di lavoro che nasce dalla fusione tra cultura digitale e produzione manifatturiera e che si caratterizza per l'utilizzo di processi produttivi innovativi e flessibili;
+c) la nascita e il consolidamento di forme stabili di collaborazione tra università, centri di ricerca, tecnopoli, fab lab, incubatori fisici e virtuali e le imprese artigiane finalizzate alla ricerca scientifica, lo sviluppo e il trasferimento tecnologico;
+d) il supporto alle attività dei manager di rete per le imprese, con particolare attenzione al coinvolgimento e alla formazione delle donne manager;
+e) il rafforzamento di Digital Innovation Hub (DIH) quali punti di accesso territoriali a strumenti, servizi e relazioni utili allo sviluppo delle imprese, per favorire l'incontro del fabbisogno di queste con le opportunità offerte dai laboratori di ricerca pubblici e privati;
+f) la diffusione dell'internazionalizzazione, incluso il supporto per la costruzione di canali commerciali digitali per la partecipazione al mercato o ad eventi promozionali, e delle iniziative di marketing e comunicazione.
