@@ -1,0 +1,1 @@
+Bologna, 16 dicembre 2020 STEFANO BONACCINI
