@@ -1,0 +1,11 @@
+{
+  "path": "it-45",
+  "code": "IT-45",
+  "name": "Emilia-Romagna",
+  "level": "region",
+  "parent": "it",
+  "repo": "https://github.com/lexifina/italy-emilia-romagna-law",
+  "build": "built: statute and regional laws (636 acts, 1023 versions) from Demetra (Assemblea legislativa della Regione Emilia-Romagna)",
+  "language": "it",
+  "sources": 1
+}
