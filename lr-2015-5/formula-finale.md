@@ -1,0 +1,1 @@
+Bologna, 27 maggio 2015 STEFANO BONACCINI
