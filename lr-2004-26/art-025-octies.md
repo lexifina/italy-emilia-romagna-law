@@ -1,0 +1,4 @@
+Art. 25 octies
+Comunicazione sugli impianti riforniti
+1. Per consentire l'implementazione e l'aggiornamento del catasto degli impianti termici, il regolamento regionale di cui all'articolo 25 quater, comma 1, stabilisce le modalità attraverso le quali i distributori di combustibile per gli impianti termici degli edifici comunicano alla Regione, entro il 31 marzo di ogni anno, i dati relativi all'ubicazione, alla titolarità e ai consumi degli impianti riforniti nell'anno precedente, nonché i dati relativi alle forniture annuali di combustibile negli edifici asserviti.
+2. La Regione rende disponibili ai Comuni i dati di cui al comma 1 in forma puntuale ed aggregata, garantendo altresì l'interoperabilità dei sistemi informativi di cui all'articolo 25 ter comma 1 lett. b) e di cui all'articolo 25 quater comma 1 lett. d).

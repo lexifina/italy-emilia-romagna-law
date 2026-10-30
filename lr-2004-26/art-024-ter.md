@@ -1,0 +1,5 @@
+Art. 24 ter
+Incentivi e requisiti prestazionali per l'energia rinnovabile
+1. La Giunta, nell'ambito dei propri programmi, definisce i sistemi di incentivazione degli investimenti privati e pubblici al fine di garantire i più elevati livelli di risparmio energetico e la massima efficienza degli impianti.
+2. I requisiti minimi di copertura dei consumi energetici degli edifici mediante energia da fonti rinnovabili prodotta da impianti in essi installati, in relazione alla tipologia di edificio e di intervento edilizio, sono definiti con atto di coordinamento tecnico adottato con le modalità e gli effetti dell'articolo 12 della legge regionale n. 15 del 2013.
+3. Il medesimo atto di coordinamento tecnico definisce altresì le condizioni in base alle quali gli obblighi di rispetto dei requisiti di cui al comma 2 possono essere soddisfatti mediante soluzioni alternative, che garantiscano analoghi risultati sul bilancio energetico regionale, ivi compresa la partecipazione in impianti collettivi.
