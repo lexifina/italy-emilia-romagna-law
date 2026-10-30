@@ -1,0 +1,1 @@
+Bologna, 30 luglio 2015 STEFANO BONACCINI
