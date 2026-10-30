@@ -1,0 +1,3 @@
+Art. 5 bis
+Investimenti per la qualificazione dell'offerta educativa e formativa
+1. La Regione, anche a seguito dell'emergenza da Covid-19, al fine di qualificare l'offerta educativa e formativa, può concedere contributi per l'acquisto di dispositivi per la didattica e di strumenti musicali da parte delle scuole di musica e degli organismi specializzati di cui all'articolo 4, nonché delle formazioni di tipo bandistico, da destinare ai giovani per la più ampia diffusione della pratica musicale. I contributi sono concessi sulla base di criteri definiti con atto di Giunta Regionale nel rispetto della normativa sugli aiuti di Stato.

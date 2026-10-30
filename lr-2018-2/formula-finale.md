@@ -1,0 +1,1 @@
+Bologna, 16 marzo 2018 STEFANO BONACCINI
