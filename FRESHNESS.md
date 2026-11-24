@@ -8,8 +8,9 @@ Come global-law misura quanto è aggiornato ogni paese: [global-law FRESHNESS.md
 
 ### Demetra (Assemblea legislativa della Regione Emilia-Romagna) · `italy/emilia-romagna/acts`
 
-- Ultima lettura della fonte ufficiale, con ogni atto presente qui confrontato con essa: **2026-11-24 00:30 UTC**.
-- Atti presenti qui: 636; aggiornati rispetto alla fonte: 633; modificati alla fonte dopo la versione presente qui: 3; non più presenti alla fonte: 0.
+- Ultima lettura della fonte ufficiale, con ogni atto presente qui confrontato con essa: **2026-11-24 00:34 UTC**.
+- Atti presenti qui: 639; aggiornati rispetto alla fonte: 639; modificati alla fonte dopo la versione presente qui: 0; non più presenti alla fonte: 0.
+- Confrontati con la fonte in questa lettura: 93 dei 639 atti presenti qui; gli altri non sono stati confrontati in questa lettura (vedi la nota del controllo).
 - Non pubblicati: 1 (in vigore più avanti: 1); senza motivo: 0.
 
 In dettaglio: [monitoring/](monitoring/README.md). Per i programmi: [data/checks/latest.json](data/checks/latest.json).

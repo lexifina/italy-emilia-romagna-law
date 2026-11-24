@@ -8,6 +8,6 @@ Come global-law sorveglia le fonti di ogni paese: [global-law WATCHING.md](https
 
 | Fonte | Che cosa si legge | Cartelle | Frequenza | Ultima lettura | Stato |
 | --- | --- | --- | --- | --- | --- |
-| [Demetra (Assemblea legislativa della Regione Emilia-Romagna)](https://demetra.regione.emilia-romagna.it/al/) | la dimensione di ciascuno dei 12 zip dei dati aperti (uno per legislatura) e, per intero, gli zip la cui dimensione è cambiata, quello della legislatura in corso e uno di una legislatura precedente al giorno; la pagina corrente di alcuni atti per il riscontro | `lr/`, `statuto/` | ogni giorno | 2026-11-24 00:28 UTC | sorvegliata: Demetra non indica la data di modifica: ogni zip è riletto quando cambia la sua dimensione e almeno ogni 11 giorni |
+| [Demetra (Assemblea legislativa della Regione Emilia-Romagna)](https://demetra.regione.emilia-romagna.it/al/) | la dimensione di ciascuno dei 12 zip dei dati aperti (uno per legislatura) e, per intero, gli zip la cui dimensione è cambiata, quello della legislatura in corso e uno di una legislatura precedente al giorno; la pagina corrente di alcuni atti per il riscontro | `lr/`, `statuto/` | ogni giorno | 2026-11-24 00:33 UTC | sorvegliata: Demetra non indica la data di modifica: ogni zip è riletto quando cambia la sua dimensione e almeno ogni 11 giorni |
 
 Le fonti si leggono nel rispetto del loro robots.txt e delle loro condizioni, con pause tra le richieste.

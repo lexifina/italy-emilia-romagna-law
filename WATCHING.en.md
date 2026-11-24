@@ -8,6 +8,6 @@ How global-law watches every country's sources: [global-law WATCHING.md](https:/
 
 | Source | What is read | Folders | How often | Last read | State |
 | --- | --- | --- | --- | --- | --- |
-| [Demetra (Assemblea legislativa della Regione Emilia-Romagna)](https://demetra.regione.emilia-romagna.it/al/) | the length of each of the 12 open-data zips (one per legislature) and, in full, the zips whose length changed, the current legislature's and one older legislature's a day; the current page of a few acts for the audit | `lr/`, `statuto/` | daily | 2026-11-24 00:28 UTC | watched: Demetra sends no Last-Modified: each zip is read again when its length changes and at least every 11 days |
+| [Demetra (Assemblea legislativa della Regione Emilia-Romagna)](https://demetra.regione.emilia-romagna.it/al/) | the length of each of the 12 open-data zips (one per legislature) and, in full, the zips whose length changed, the current legislature's and one older legislature's a day; the current page of a few acts for the audit | `lr/`, `statuto/` | daily | 2026-11-24 00:33 UTC | watched: Demetra sends no Last-Modified: each zip is read again when its length changes and at least every 11 days |
 
 Sources are read within their robots.txt and terms, with pauses between requests.

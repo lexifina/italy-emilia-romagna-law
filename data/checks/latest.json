@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-24T00:30:39Z",
+ "generated": "2026-11-24T00:34:34Z",
  "latest": {
   "demetra|italy/emilia-romagna/acts": {
-   "attempt": 1,
+   "attempt": 2,
    "audit": {
     "match_neither": 0,
     "match_new": 5,
@@ -10,43 +10,43 @@
     "method": "read again as the act's current page on Demetra (articolo?urn=..., the HTML Demetra shows; the check reads the open-data zips) by the builder's HTML readers (it_er_history.parse_page, page_letters), against the text main holds (this check's published acts as published): every unit but the heading, closing formula and annexes line for line up to spaces, else at least 0.998 of the page body's letters and digits in common both ways (the page prints a few headings elsewhere)",
     "rows": [
      {
-      "how": "every unit line for line (up to spaces)",
-      "id": "lr-2016-3",
-      "published": true,
-      "read": "https://demetra.regione.emilia-romagna.it/al/articolo?urn=er:assemblealegislativa:legge:2016;3",
+      "how": "letters and digits of the page's body",
+      "id": "lr-2008-23",
+      "published": false,
+      "read": "https://demetra.regione.emilia-romagna.it/al/articolo?urn=er:assemblealegislativa:legge:2008;23",
       "share": 1.0,
       "verdict": "match_new"
      },
      {
       "how": "letters and digits of the page's body",
-      "id": "lr-2026-15",
-      "published": true,
-      "read": "https://demetra.regione.emilia-romagna.it/al/articolo?urn=er:assemblealegislativa:legge:2026;15",
-      "share": 1.0,
-      "verdict": "match_new"
-     },
-     {
-      "how": "every unit line for line (up to spaces)",
-      "id": "lr-2026-16",
-      "published": true,
-      "read": "https://demetra.regione.emilia-romagna.it/al/articolo?urn=er:assemblealegislativa:legge:2026;16",
-      "share": 1.0,
-      "verdict": "match_new"
-     },
-     {
-      "how": "every unit line for line (up to spaces)",
-      "id": "lr-2017-9",
-      "published": true,
-      "read": "https://demetra.regione.emilia-romagna.it/al/articolo?urn=er:assemblealegislativa:legge:2017;9",
+      "id": "lr-2007-28",
+      "published": false,
+      "read": "https://demetra.regione.emilia-romagna.it/al/articolo?urn=er:assemblealegislativa:legge:2007;28",
       "share": 1.0,
       "verdict": "match_new"
      },
      {
       "how": "letters and digits of the page's body",
-      "id": "lr-2026-13",
-      "published": true,
-      "read": "https://demetra.regione.emilia-romagna.it/al/articolo?urn=er:assemblealegislativa:legge:2026;13",
-      "share": 0.99991,
+      "id": "lr-2019-23",
+      "published": false,
+      "read": "https://demetra.regione.emilia-romagna.it/al/articolo?urn=er:assemblealegislativa:legge:2019;23",
+      "share": 1.0,
+      "verdict": "match_new"
+     },
+     {
+      "how": "letters and digits of the page's body",
+      "id": "lr-2001-42",
+      "published": false,
+      "read": "https://demetra.regione.emilia-romagna.it/al/articolo?urn=er:assemblealegislativa:legge:2001;42",
+      "share": 1.0,
+      "verdict": "match_new"
+     },
+     {
+      "how": "letters and digits of the page's body",
+      "id": "lr-2019-22",
+      "published": false,
+      "read": "https://demetra.regione.emilia-romagna.it/al/articolo?urn=er:assemblealegislativa:legge:2019;22",
+      "share": 1.0,
       "verdict": "match_new"
      }
     ],
@@ -54,43 +54,31 @@
     "unread": 0
    },
    "census": {
-    "checked": 639,
-    "current": 633,
+    "checked": 93,
+    "current": 639,
     "gone": 0,
-    "held": 636,
+    "held": 639,
     "newest_at_source": "lr-2026-17",
-    "newest_in_repo": "lr-2026-13",
-    "pending": 3,
-    "repo": 636,
+    "newest_in_repo": "lr-2026-16",
+    "pending": 0,
+    "repo": 639,
     "source_in_scope": 640
    },
-   "check_id": "it-demetra-20261124T002845Z",
-   "commits": {
-    "count": 7,
-    "from": "32a1b2ceb54d34fd0f5234f7dc1978374ffe5fa0",
-    "to": "f830d8faf9551848574698b998a280fbcb0e1a1d"
-   },
+   "check_id": "it-demetra-20261124T003330Z",
+   "commits": null,
    "corpus": "italy/emilia-romagna/acts",
    "error": null,
-   "finished": "2026-11-24T00:30:38Z",
+   "finished": "2026-11-24T00:34:33Z",
    "flags": [],
    "gap": 1,
-   "note": "first check: the baseline (nothing to compare with); zips read in full this check: legislatures 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12; 640 laws in force at Demetra by the builder's rules (640 files), 1 in force later; regulations, internal rules and wholly repealed laws are outside the repository's scope",
-   "outcome": "changed",
+   "note": "zips read in full this check: legislatures 8, 12 (the others unchanged in length since their last read, kept from it); 640 laws in force at Demetra by the builder's rules (640 files), 1 in force later; regulations, internal rules and wholly repealed laws are outside the repository's scope",
+   "outcome": "no-change",
    "published": {
-    "added": [
-     "lr-2016-3",
-     "lr-2026-15",
-     "lr-2026-16"
-    ],
-    "changed": [
-     "lr-2017-9",
-     "lr-2026-13",
-     "lr-2026-5"
-    ],
+    "added": [],
+    "changed": [],
     "removed": []
    },
-   "requests": 30,
+   "requests": 19,
    "runner": "lawwatch italy (92c4e33d60)",
    "schema": "lexifina-check/1",
    "seen": {
@@ -100,22 +88,17 @@
    },
    "snapshot": null,
    "source": "demetra",
-   "started": "2026-11-24T00:28:45Z",
+   "started": "2026-11-24T00:33:30Z",
    "unexplained": 0,
-   "update": {
-    "commits": 7,
-    "corrections": 1,
-    "new": 3,
-    "versions": 2
-   },
+   "update": {},
    "verify": {
     "cycle_days": 30,
     "examples": [],
     "explained": 0,
-    "held": 636,
-    "method": "every held act whose legislature's zip was read in full this check (legislatures 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12; each zip at least every 11 days) parsed with the builder's act_of and compared with the act's files at main's tip, file for file; acts published by this check counted as compared (gate: their folders equal gitlaw_common's append)",
+    "held": 639,
+    "method": "every held act whose legislature's zip was read in full this check (legislatures 8, 12; each zip at least every 11 days) parsed with the builder's act_of and compared with the act's files at main's tip, file for file; acts published by this check counted as compared (gate: their folders equal gitlaw_common's append)",
     "ok": true,
-    "versions_checked": 639,
+    "versions_checked": 93,
     "versions_differ": 0
    }
   }
