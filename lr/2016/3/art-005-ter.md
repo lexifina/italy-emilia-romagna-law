@@ -1,0 +1,17 @@
+Art. 5 ter
+Partecipazione all'Associazione Liberation Route Italia
+01. La Regione, in attuazione della propria carta statutaria e in adesione ai principî costituzionali e ai valori fondativi dell'Unione europea, riconosce i valori della Resistenza al nazismo e al fascismo e gli ideali di libertà e unità nazionale, opera per affermare i valori universali di libertà, eguaglianza, democrazia, rifiuto del totalitarismo, giustizia sociale e solidarietà con gli altri popoli del mondo e con le future generazioni, partecipando al processo di costruzione e integrazione europea, estendendo i rapporti di reciproca collaborazione con le altre regioni europee, sostenendo progetti e iniziative di diffusione della conoscenza storica dei fatti determinanti per l'assetto e lo sviluppo democratico regionale, italiano ed europeo, promuovendo progetti e azioni per diffondere la conoscenza dei fatti che hanno segnato la storia europea, nazionale e locale nel corso del Novecento.
+02.
+Per i fini di cui al comma 1 la Regione, con la presente legge, disciplina la partecipazione all'Associazione Liberation Route Italia, costituita con le seguenti finalità:
+a) creare ed espandere una rotta di commemorazione che colleghi le regioni in cui si è svolta la Liberazione dell'Italia dall'occupazione nazista e dal regime fascista nel corso della Seconda Guerra Mondiale;
+b) promuovere il rispetto e la diffusione dei valori universali di pace, libertà, democrazia e riconciliazione e prevenire qualsiasi comportamento tendente alla glorificazione della guerra o che non sia rispettoso nei confronti dei reduci, rifiutando e condannando qualsiasi ideologia estremista, negazionista o revisionista;
+c) coordinare eventuali progetti di ricerca, cogliendo opportunità di finanziamenti banditi dall'Unione europea o da altri soggetti pubblici e privati, sviluppando forme di partenariato.
+1. La Regione è autorizzata a partecipare in qualità di socio ordinario, ai sensi dell' articolo 64, comma 3, dello Statuto all'associazione senza scopo di lucro denominata "Liberation Route Italia", creata quale articolazione italiana della Associazione internazionale Liberation Route Europe, organizzazione senza scopo di lucro di diritto belga.
+2.
+La partecipazione della Regione è subordinata alle seguenti condizioni:
+a) che l'associazione non persegua fini di lucro;
+b) che i soci ordinari dell'Associazione Liberation Route Italia siano associazioni, fondazioni, enti locali, musei, istituzioni pubbliche o private e qualsiasi altra persona, ad esclusione delle persone fisiche, che, ai sensi della legge italiana, abbiano personalità giuridica;
+c) che all'Associazione non venga revocato dall'Associazione internazionale Liberation Route Europe il diritto di utilizzare la denominazione "Liberation Route".
+3. Il Presidente della Regione è autorizzato a compiere tutti gli atti necessari al fine di perfezionare la partecipazione della Regione all'associazione e, personalmente o tramite un suo delegato, esercita i diritti inerenti alla qualità di associato.
+4. La Regione partecipa all'associazione con una quota di adesione non superiore a euro 3.000,00 per ciascuno degli esercizi finanziari 2022, 2023 e 2024.
+5. Per gli esercizi finanziari successivi al 2024 la Regione è altresì autorizzata a concedere un contributo associativo annuale, il cui importo viene determinato nell'ambito delle autorizzazioni disposte, annualmente, dalla legge di approvazione del bilancio regionale.
