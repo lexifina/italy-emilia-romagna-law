@@ -1,0 +1,36 @@
+{
+ "sources": [
+  {
+   "id": "demetra",
+   "kind": "legislation",
+   "name": {
+    "en": "Demetra (Assemblea legislativa della Regione Emilia-Romagna)",
+    "it": "Demetra (Assemblea legislativa della Regione Emilia-Romagna)"
+   },
+   "url": "https://demetra.regione.emilia-romagna.it/al/",
+   "reads": {
+    "en": "the length of each of the 12 open-data zips (one per legislature) and, in full, the zips whose length changed, the current legislature's and one older legislature's a day; the current page of a few acts for the audit",
+    "it": "la dimensione di ciascuno dei 12 zip dei dati aperti (uno per legislatura) e, per intero, gli zip la cui dimensione è cambiata, quello della legislatura in corso e uno di una legislatura precedente al giorno; la pagina corrente di alcuni atti per il riscontro"
+   },
+   "folders": [
+    "lr/",
+    "statuto/"
+   ],
+   "schedule": "daily",
+   "state": "watched",
+   "corpora": [
+    "italy/emilia-romagna/acts"
+   ],
+   "interval": 3.2,
+   "allow": [
+    "lr/",
+    "statuto/",
+    "data/paths.json"
+   ],
+   "note": {
+    "en": "Demetra sends no Last-Modified: each zip is read again when its length changes and at least every 11 days",
+    "it": "Demetra non indica la data di modifica: ogni zip è riletto quando cambia la sua dimensione e almeno ogni 11 giorni"
+   }
+  }
+ ]
+}
